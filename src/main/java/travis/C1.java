@@ -5,6 +5,7 @@ public class C1 {
 
     public C1(int value) {
         this.value = value;
+        //Whatever
     }
 
     public int getValue() {
